@@ -56,9 +56,10 @@ footer {
   display: inline;
 }
 
+
+
 button {
-  width: 20%;
-  height: 10%;
+  width: 25%;
   margin-top: 20px;
   background-color: red;
   color: white;
@@ -69,6 +70,21 @@ button {
   cursor: pointer;
 }
 
+
 .little-dice {
   font-size: 1.5rem;
+}
+
+@media screen and (max-width:992px) {
+  button {
+    width: 40%;
+    margin-bottom: 40px;
+    padding: 20px 10px;
+    font-size: 2rem;
+  }
+
+  .little-dice {
+    font-size: 3rem;
+  }
+
 }
