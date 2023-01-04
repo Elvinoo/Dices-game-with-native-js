@@ -6,6 +6,7 @@ Then I added spin and restart buttons in a separate div tag in order to use them
 
 CSS description
 In the css file initially I made the img tag(all of them) as display:none and the show class as display:inline in order to get only two images by default.
+Then changed button sizes for the mobile and tablet screens in order to touch it easily
 
 JS description
 In JS file, I created and empty h3 tag and appended it in the div of buttons in order to show the winner. 
