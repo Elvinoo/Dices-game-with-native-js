@@ -1,3 +1,4 @@
+#https://elvinoo.github.io/Dices-game-with-native-js/
 # Dices-game-with-native-js
 It is a simple dice spinning game written in native js.
 HTML description
